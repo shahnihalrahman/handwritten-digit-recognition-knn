@@ -65,7 +65,18 @@ opencv-python
 - Improved preprocessing pipeline
 
 ---
+---
 
+## Current Status
+Currently uploading and restructuring the original university project documentation.
+
+Future updates will include:
+- Full Python implementation
+- Jupyter notebooks
+- Improved preprocessing pipeline
+- Advanced ML/DL models
+- Deployment-ready architecture
+  
 ## Author
 Shahnihal Rahman
 
